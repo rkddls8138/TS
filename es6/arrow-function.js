@@ -13,7 +13,6 @@ var sum = (a, b) => {
 }
 var sum = (a, b) => a + b;
 
-
 // TS 화살표 함수
 // var sum = (a: numner, b: number): number => {
 //     return a + b;
