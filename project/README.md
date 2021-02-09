@@ -13,6 +13,7 @@
     - [x] `tsc` 명령어로 타입스크립트 컴파일 하기
 2. 명시적인 `any` 선언하기
     - `tsconfig.json` 파일에 `noImplicitAny` 값을 `true`로 추가
+3. MarkDown 연습하기
 
 
 ## 참고 자료
