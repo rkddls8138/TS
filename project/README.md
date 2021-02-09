@@ -13,7 +13,8 @@
     - [x] `tsc` 명령어로 타입스크립트 컴파일 하기
 2. 명시적인 `any` 선언하기
     - `tsconfig.json` 파일에 `noImplicitAny` 값을 `true`로 추가
-3. MarkDown 연습하기
+3. - MarkDown 연습하기
+4. - spring-boot `devTools` [https://blog.naver.com/PostView.nhn?blogId=baekmg1988&logNo=221565323534&from=search&redirect=Log&widgetTypeCall=true&directAccess=false]
 
 
 ## 참고 자료
