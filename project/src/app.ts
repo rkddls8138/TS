@@ -212,10 +212,8 @@ function renderChart(data: any, labels: any) {
 
 function setChartData(data: any) {
   const chartData = data.slice(-14).map((value: any) => value.Cases);
-  const chartLabel = data
-    .slice(-14)
-    .map(value => new Date(value.Date).toLocaleDateString().slice(5, -1));
-  renderChart(chartData, chartLabel);
+  const chartLabel = data.slice(-14).map(value => new Date(value.Date).toLocaleDateString().slice(5, -1));
+    renderChart(chartData, chartLabel);
 }
 
 function setTotalConfirmedNumber(data: any) {
