@@ -19,6 +19,7 @@
 6. - Kotlin Web Programming
 7. - JS optional & optional chaining
 8. - JDK 1.8 lamda && stream && optional ...
+9. - jpa
 ## 참고 자료
 
 - [존스 홉킨스 코로나 현황](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
