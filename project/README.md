@@ -21,6 +21,10 @@
 8. - JDK 1.8 lamda && stream && optional ...
 9. - https://victorydntmd.tistory.com/195 : jpa, orm 
 10. - https://stackoverflow.com/questions/11381673/detecting-a-mobile-browser : cross browsing issue (mobil, tablat, ...)
+11. - https://brunch.co.kr/@springboot/423 : CQRS 블로그
+12. - RDBMS(CDC) <-> RDBMS read/write 분리
+13. - 디비 스케일업 && 스케일 다운 개념 확실히 정리 쿼리튜너가 돈을 잘벌었던 시절..
+14. - 히카리cp 공부
 ## 참고 자료
 
 - [존스 홉킨스 코로나 현황](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
