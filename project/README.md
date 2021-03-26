@@ -19,7 +19,8 @@
 6. - Kotlin Web Programming
 7. - JS optional & optional chaining
 8. - JDK 1.8 lamda && stream && optional ...
-9. - jpa
+9. - https://victorydntmd.tistory.com/195 : jpa, orm 
+10. - https://stackoverflow.com/questions/11381673/detecting-a-mobile-browser : cross browsing issue (mobil, tablat, ...)
 ## 참고 자료
 
 - [존스 홉킨스 코로나 현황](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
