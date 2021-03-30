@@ -23,13 +23,20 @@
 10. - https://stackoverflow.com/questions/11381673/detecting-a-mobile-browser : cross browsing issue (mobil, tablat, ...)
 11. - https://brunch.co.kr/@springboot/423 : CQRS 블로그
 12. - RDBMS(CDC) <-> RDBMS read/write 분리
-13. - 디비 스케일업 && 스케일 다운 개념 확실히 정리
+13. - 디비 스케일업 && 스케일 다운 개념 확실히 정리 
 14. - 히카리cp 공부
 15. - 쿼리튜닝 - 쿼리 최적화에대한 연구 및 현재나온 방법들 정리 로드밸런싱에대해 연구
 16. - SOA 와 MSA 의 차이점
 17. - Deno, NestJS, NextJS에 대하여 알아보기 + 웹소켓 실시간 프로그램 개발해보기
 18. - 클라우드 기반 서비스 연구 도커-쿠브
-19. - 
+19. - ci/cd tool : jenkins 연구
+20. - token 암호화 복호화 crypto JWT(JSON WEB TOKEN)
+21. - kafka 
+22. - cashing buffering
+23. - 엘라스틱 서치 : 자바로 만들어진 검색엔진 번외로 아파치 solr가 있다
+24. - Flutter vs Go <-- 이미 갖추어진 생태계 자체는 파이썬이 훨씬 유리함 하지만 속도면에서 Go를 따라올순 없음
+25. - 병목현상 및
+26. - 샤드에대해서 연구 (기존 노드별10개씩 가지고있던것을 샤딩해서 노드별1개씩가지고있음으로 트랜잭션 속도에 용이함)
 ## 참고 자료
 
 - [존스 홉킨스 코로나 현황](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
