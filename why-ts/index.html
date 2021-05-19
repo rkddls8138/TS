@@ -1,19 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Why Typescript?</title>
-  </head>
-  <body>
-    <h1>사용자 정보</h1>
-    <div>
-      <p>이름: <span id="username"></span></p>
-      <p>이메일: <span id="email"></span></p>
-      <p>주소: <span id="address"></span></p>
-    </div>
 
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-    <script src="./app.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Why Typescript?</title>
+</head>
+
+<body>
+  <h1>사용자 정보</h1>
+  <div>
+    <p>이름: <span id="username"></span></p>
+    <p>이메일: <span id="email"></span></p>
+    <p>주소: <span id="address"></span></p>
+  </div>
+
+  <select id="list">
+    <option value="one">1</option>
+    <option value="two">2</option>
+  </select>
+
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="./app.js"></script>
+</body>
+<script>
+
+  // getDate
+  var date = "20210519";
+
+  // 가져온 날짜 파싱
+  function parse(date) {
+    var y = date.substr(0, 4);
+    var m = date.substr(4, 2);
+    var d = date.substr(6, 2);
+    return new Date(y, m - 1, d);
+  }
+
+  date = new Date(new Date(parse(date)).getTime() + 24 * 60 * 60 * 1000);
+
+  // 파싱한 데이터 포멧
+  function getFormatDate(date) {
+    var year = date.getFullYear();              //yyyy
+    var month = (1 + date.getMonth());          //M
+    month = month >= 10 ? month : '0' + month;  //month 두자리로 저장
+    var day = date.getDate();                   //d
+    day = day >= 10 ? day : '0' + day;          //day 두자리로 저장
+    return year + '' + month + '' + day;       //'-' 추가하여 yyyy-mm-dd 형태 생성 가능
+  }
+
+  console.log(getFormatDate(date));
+  const test = document.getElementById("list");
+  console.log(test)
+  test.options[0].text = getFormatDate(date);
+
+  var week = ['일', '월', '화', '수', '목', '금', '토'];
+  var dayOfWeek = week[new Date(date).getDay()];
+  console.log("(" + dayOfWeek + ")");
+</script>
+
 </html>
