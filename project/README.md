@@ -42,6 +42,7 @@
 28. - 아 토비님한테 답장왔으면 좋겠따..
 29. - https://naver.github.io/hackday-conventions-java/#1-top-level-class
 30. - git 스쿼시 커밋 a, b, c 자잘한커밋을 한번에 모아서 하나의커밋으로 적용
+31. - https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/    --> jpa def
 
 ## 참고 자료
 
