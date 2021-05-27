@@ -43,6 +43,14 @@
 29. - https://naver.github.io/hackday-conventions-java/#1-top-level-class
 30. - git 스쿼시 커밋 a, b, c 자잘한커밋을 한번에 모아서 하나의커밋으로 적용
 31. - https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/    --> jpa def
+32. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
+
+## Node.JS Terminal function start!!
+
+0. - Project 내부 해당 directory 접근. --> TS/es6/
+1. - 실행시킬 JS || TS FileName 파악
+2. - Terminal ==> node arrowFunction.js 
+3. - 추가로 해당 File내부의 특정 함수 설정 node arrowFunction.js sum <-- + FunctionName 추가입력 
 
 ## 참고 자료
 
@@ -53,3 +61,7 @@
 ## JPA 활용법(단순 CRUD기준)
 
 0. - 기본적으로 Entity 구성
+
+split
+replaceAll
+substring
