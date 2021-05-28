@@ -32,9 +32,9 @@
 18. - 클라우드 기반 서비스 공부 AWS 도커-쿠브
 19. - ci/cd tool : jenkins 연구
 20. - token 암호화 복호화 crypto JWT(JSON WEB TOKEN)
-21. - kafka --> CQRS로 MSA SELECT특화 프로젝트 적용해보기. 0 
+21. - CQRS로 MSA SELECT특화 프로젝트 적용해보기. 0 
 22. - cashing buffering
-23. - 엘라스틱 서치 적용 토이 프로젝트 완성.
+23. - 주식 분석 프로젝트 완성. (ELK Stack + kafka) || (스플렁크)
 24. - Flutter vs Go <-- 이미 갖추어진 생태계 자체는 파이썬이 훨씬 유리함 하지만 속도면에서 Go를 따라올순 없음
 25. - 병목현상 및 데이터 병렬처리 공부
 26. - 샤드에대해서 연구 (기존 노드별10개씩 가지고있던것을 샤딩해서 노드별1개씩가지고있음으로 트랜잭션 속도에 용이함)
@@ -44,6 +44,7 @@
 30. - git 스쿼시 커밋 a, b, c 자잘한커밋을 한번에 모아서 하나의커밋으로 적용
 31. - https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/    --> jpa def
 32. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
+33. - https://brunch.co.kr/@jehovah/20 <-- Redis 
 
 ## Node.JS Terminal function start!!
 
