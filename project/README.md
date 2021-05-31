@@ -65,4 +65,3 @@
 split
 replaceAll
 substring
-1
