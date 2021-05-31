@@ -41,7 +41,6 @@
 27. - spring boot 심화학습.
 28. - 아 토비님한테 답장왔으면 좋겠따..
 29. - https://naver.github.io/hackday-conventions-java/#1-top-level-class
-30. - git 스쿼시 커밋 a, b, c 자잘한커밋을 한번에 모아서 하나의커밋으로 적용
 31. - https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/    --> jpa def
 32. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
 33. - https://brunch.co.kr/@jehovah/20 <-- Redis
@@ -66,9 +65,3 @@
 split
 replaceAll
 substring
-
-squash - 1
-squash - 2
-squash - 3
-최근 3개의 커밋
-$  git rebase -i HEAD~3
