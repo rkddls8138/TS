@@ -65,5 +65,3 @@
 split
 replaceAll
 substring
-
-test
