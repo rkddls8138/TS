@@ -65,3 +65,5 @@
 split
 replaceAll
 substring
+sss
+ssssss
