@@ -39,11 +39,10 @@
 25. - 병목현상 및 데이터 병렬처리 공부
 26. - 샤드에대해서 연구 (기존 노드별10개씩 가지고있던것을 샤딩해서 노드별1개씩가지고있음으로 트랜잭션 속도에 용이함)
 27. - spring boot 심화학습.
-28. - 아 토비님한테 답장왔으면 좋겠따..
-29. - https://naver.github.io/hackday-conventions-java/#1-top-level-class
-31. - https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/    --> jpa def
-32. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
-33. - https://brunch.co.kr/@jehovah/20 <-- Redis
+28. - https://naver.github.io/hackday-conventions-java/#1-top-level-class
+29. - https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/    --> jpa def
+30. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
+31. - https://brunch.co.kr/@jehovah/20 <-- Redis
 
 ## Node.JS Terminal function start!!
 
