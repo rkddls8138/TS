@@ -5,14 +5,14 @@ git init
 git add fileName
 
 1. - squash
-- [] git log --pretty=oneline
-- [] git rebase -i HEAD~N : modify pick to sqaush :) 
+- [x] git log --pretty=oneline
+- [x] git rebase -i HEAD~N : modify pick to sqaush :) 
 
 2. - statsh
-- [] git stash                         <-- now status saved
-- [] git stash list                    <-- stash list
-- [] git stash apply stash@{index}     <-- stash apply
-- [] git stash drop  stash@{Index}     <-- stash remove
-- [] git stash pop                     <-- apply after drop
+- [x] git stash                         <-- now status saved
+- [x] git stash list                    <-- stash list
+- [x] git stash apply stash@{index}     <-- stash apply
+- [x] git stash drop  stash@{Index}     <-- stash remove
+- [x] git stash pop                     <-- apply after drop
 
 3. - 
