@@ -44,6 +44,11 @@
 30. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
 31. - https://brunch.co.kr/@jehovah/20 <-- Redis
 32. - https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html <-- RestFul Guide
+
+
+
+
+
 ## Node.JS Terminal function start!!
 
 0. - Project 내부 해당 directory 접근. --> TS/es6/
@@ -67,6 +72,3 @@ substring
 
 2021-06-02
 // TODO 메뉴 옵션이 소팅되어 나오지 않습니다 displayOrder를 잡아주어야 하는데 어떻게 해줘야할지 아직 감이 안옵니다...
-
-
-우리엄마는 바보에여 
