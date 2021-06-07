@@ -43,7 +43,7 @@
 29. - https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/    --> jpa def
 30. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
 31. - https://brunch.co.kr/@jehovah/20 <-- Redis
-
+32. - https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html <-- RestFul Guide
 ## Node.JS Terminal function start!!
 
 0. - Project 내부 해당 directory 접근. --> TS/es6/
