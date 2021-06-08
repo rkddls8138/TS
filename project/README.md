@@ -44,10 +44,7 @@
 30. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
 31. - https://brunch.co.kr/@jehovah/20 <-- Redis
 32. - https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html <-- RestFul Guide
-<<<<<<< HEAD
-=======
 33. - 패킷 프로토콜 TCP/UDP port별 사용하는 서비스 정리
->>>>>>> 61e2b412dc70b9d8f519ccddc5882fb5805e8fd1
 
 
 
