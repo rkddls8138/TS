@@ -30,7 +30,7 @@
 16. - SOA 와 MSA 의 차이점
 17. - Deno, NestJS, NextJS에 대하여 알아보기 + 웹소켓 실시간 프로그램 개발해보기
 18. - 클라우드 기반 서비스 공부 AWS 도커-쿠브
-19. - ci/cd tool : jenkins 연구
+19. - ci/cd tool : jenkins + redHat연동하기
 20. - token 암호화 복호화 crypto JWT(JSON WEB TOKEN)
 21. - CQRS로 MSA SELECT특화 프로젝트 적용해보기. 0 
 22. - cashing buffering
@@ -44,6 +44,10 @@
 30. - https://ninearies.tistory.com/177 <-- 정규표현식 패턴 
 31. - https://brunch.co.kr/@jehovah/20 <-- Redis
 32. - https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html <-- RestFul Guide
+<<<<<<< HEAD
+=======
+33. - 패킷 프로토콜 TCP/UDP port별 사용하는 서비스 정리
+>>>>>>> 61e2b412dc70b9d8f519ccddc5882fb5805e8fd1
 
 
 
