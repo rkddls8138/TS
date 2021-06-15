@@ -2,7 +2,7 @@
 
 최종 프로젝트 폴더입니다
 
-## 자바스크립트 프로젝트에 타입스크립트 적용하기
+## 자바스크립트 프로젝트에 타입스크립트 적용하기 WITH REACT를 곁들인..
 
 0. 자바스크립트 파일에 JSDoc으로 타입 시스템 입히기
 1. 타입스크립트 프로젝트 생성
@@ -45,7 +45,8 @@
 31. - https://brunch.co.kr/@jehovah/20 <-- Redis
 32. - https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html <-- RestFul Guide
 33. - 패킷 프로토콜 TCP/UDP port별 사용하는 서비스 정리
-
+34. - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shj1126zzang&logNo=220051916603 network temp
+35. - https://aws-hyoh.tistory.com/entry/L4-Switch-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0 L4 switch guide
 
 
 
@@ -66,6 +67,8 @@
 ## JPA 활용법(단순 CRUD기준)
 
 0. - 기본적으로 Entity 구성
+1. - service layer 설계
+2. - 
 
 split
 replaceAll
