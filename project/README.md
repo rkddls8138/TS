@@ -9,7 +9,7 @@
     - [x] NPM 초기화 
     - [x] 타입스크립트 라이브러리 설치
     - [x] 타입스크립트 설정 파일 생성 설치 및 기본 값 추가
-    - [x] 자바스크립트 파일을 타입스크립트 파일로 변환
+    - [ ] 자바스크립트 파일을 타입스크립트 파일로 변환
     - [x] `tsc` 명령어로 타입스크립트 컴파일 하기
 2. 명시적인 `any` 선언하기
     - `tsconfig.json` 파일에 `noImplicitAny` 값을 `true`로 추가
@@ -45,9 +45,13 @@
 31. - https://brunch.co.kr/@jehovah/20 <-- Redis
 32. - https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html <-- RestFul Guide
 33. - 패킷 프로토콜 TCP/UDP port별 사용하는 서비스 정리
+<<<<<<< HEAD
 34. - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shj1126zzang&logNo=220051916603 : network temp
 35. - https://aws-hyoh.tistory.com/entry/L4-Switch-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0 : L4 switch guide
 36. - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jwjung0723&logNo=221721325323 : 자주쓰는 정규 표현식
+=======
+
+>>>>>>> 744da7b8b3dc75e84e8ccac937537a24adc5062f
 
 
 
@@ -77,3 +81,5 @@ substring
 
 2021-06-02
 // TODO 메뉴 옵션이 소팅되어 나오지 않습니다 displayOrder를 잡아주어야 하는데 어떻게 해줘야할지 아직 감이 안옵니다...
+https://m.blog.naver.com/rogman0/221528807151  MSA 도입을 위한 고려사항 ( 이분 블로그에 서킷 리트라이 폴백에대한 설명도 있음 전반적인 MSA 메인스트림에 대해 절 설명해놓음)
+https://daddyprogrammer.org/post/13700/service-mesh/ 서비스 메시
