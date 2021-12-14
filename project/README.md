@@ -56,8 +56,8 @@
 
 0. - Project 내부 해당 directory 접근. --> TS/es6/
 1. - 실행시킬 JS || TS FileName 파악
-2. - Terminal ==> node arrowFunction.js 
-3. - 추가로 해당 File내부의 특정 함수 설정 node arrowFunction.js sum <-- + FunctionName 추가입력 
+2. - Terminal ==> node arrowFunction.js
+3. - 추가로 해당 File내부의 특정 함수 설정 node arrowFunction.js sum <-- (FunctionName 추가입력)
 
 ## 참고 자료
 

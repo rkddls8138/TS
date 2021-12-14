@@ -15,4 +15,6 @@ git add fileName
 - [x] git stash drop  stash@{Index}     <-- stash remove
 - [x] git stash pop                     <-- apply after drop
 
-3. - 
+3. - 깃 삭제된 스태시 복구
+git fsck --no-reflog | awk '/dangling commit/ {print $3}' | xargs -L 1 git --no-pager show -s --format="%ci %H" | sort
+git stash apply {stash의\_hash값}
