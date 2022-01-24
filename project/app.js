@@ -5,8 +5,18 @@ function $(selector) {
   function getUnixTimestamp(date) {
     return new Date(date).getTime();
   }
-  
 
+  // // DOM
+const confirmedTotal = $('.confirmed-total');
+const deathsTotal = $('.deaths');
+const recoveredTotal = $('.recovered');
+const lastUpdatedTime = $('.last-updated-time');
+const rankList = $('.rank-list');
+const deathsList = $('.deaths-list');
+const recoveredList = $('.recovered-list');
+const deathSpinner = createSpinnerElement('deaths-spinner');
+const recoveredSpinner = createSpinnerElement('recovered-spinner');
+  
   function createSpinnerElement(id) {
     const wrapperDiv = document.createElement('div');
     wrapperDiv.setAttribute('id', id);
@@ -33,9 +43,9 @@ function $(selector) {
   }
   
   var CovidStatus = {
-    Confirmed = 'comfirmed',
-    Recovered = 'recoverd',
-    Deaths = 'deaths'
+    Confirmed : 'comfirmed',
+    Recovered : 'recoverd',
+    Deaths : 'deaths'
   }
   
   function fetchCountryInfo(countryCode, status) {
