@@ -14,10 +14,11 @@
 - 60개 지자체 <카드형 지역화폐> 운영 대행
 - <배달 및 모빌리티> 서비스 런칭
 
-# customer & community value
-# security
-# play global - we follow global standards
-
+--------------------------------------------------------------------------------
+## customer & community value
+## security
+## play global - we follow global standards
+--------------------------------------------------------------------------------
 
 # DIGITAK IDENTIFICATION
 - ic칩 (금융/통신)

@@ -29,7 +29,7 @@
 15. - 쿼리튜닝 - 쿼리 최적화에대한 연구 및 현재나온 방법들 정리 로드밸런싱에대해 연구
 16. - SOA 와 MSA 의 차이점
 17. - Deno, NestJS, NextJS에 대하여 알아보기 + 웹소켓 실시간 프로그램 개발해보기
-18. - 클라우드 기반 서비스 공부 AWS 도커-쿠브
+18. - 클라우드 기반 서비스 공부 AWS 도커-k8s
 19. - ci/cd tool : jenkins + redHat연동하기
 20. - token 암호화 복호화 crypto JWT(JSON WEB TOKEN)
 21. - CQRS로 MSA SELECT특화 프로젝트 적용해보기. 0 
@@ -259,3 +259,59 @@ AND MI.MC_TYPE = 'BC'
 
 ORDER BY 지역구, 주소
 ;
+
+
+
+## 스마트 카드
+
+- Secure Element
+- SE 는 해킹으로부터 주요 정보를 안전하게 지키는 보안 장치 입니다.
+
+
+## 회수권 발행 시스템
+
+ 유가증권 --> 권리를 증명하는 종이 쪼가리
+
+- [ ] 문화상품권 
+- [ ] 수표
+- [ ] 영화관람관
+- [ ] 교통카드
+
+잔액 위변조 방지
+
+##### 정상 <--> 비정상 거래 구분 = 스마트 카드의 기술
+
+- 도청대비 key, value 상시 변환
+
+## 상호인증
+
+Challenge – Response Authentication
+
+음.. 전반적으로 KEY에 대한 안전한 관리가 필요함..
+
+## 해킹 공격의 종류
+
+- Expected Answer 
+
+- [ ] 메모리 분석 - 수식계산시 cpu 점유율 파악
+- [ ] 전자기파 분석 - 파장의 탑다운 분석
+
+## 비대칭키... 서로 다른 키로 암복호화 하는것... (시험)
+
+
+# 정규과정
+## COB(card on board) 모듈 제작과정 (시험)
+
+- NFC --> 안테나
+- 모듈이용 --> 스마트 칩
+
+
+Hybrid Card --> chip 2개 : 컨텍 + 컨텍리스; 
+Combie Card --> chip 1개 : 컨텍 + 컨텍리스;
+
+wafer -> cob -> 
+
+##### core logic
+
+-  ELK
+
